@@ -14,3 +14,4 @@ linked-hash-map = ">=0.0.9, <0.6"
 
 [dev-dependencies]
 quickcheck = "0.6"
+quickcheck_derive = "0.1.3"
